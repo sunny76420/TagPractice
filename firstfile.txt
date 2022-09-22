@@ -1,2 +1,3 @@
 test 123 456
 Version code = 1.1
+Version code = 1.2
